@@ -1,4 +1,5 @@
 # Static-IP-vs-DHCP
+![image](https://github.com/user-attachments/assets/c5fc8c1c-625f-40ef-8b0d-4af7e0cee09f)
 
 Static IP vs DHCP: Making the Right Choice for Your Network.
 
